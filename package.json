@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pritamworld/w7_3133_nodejs_express_apollo_graphql_template.git"
+    "url": "git+https://github.com/ramtina1381/Comp3133_Exercise5.gitt"
   },
   "keywords": [
     "mongoose",
@@ -22,9 +22,9 @@
   "author": "Pritesh Patel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pritamworld/w7_3133_nodejs_express_apollo_graphql_template/issues"
+    "url": "https://github.com/ramtina1381/Comp3133_Exercise5.git"
   },
-  "homepage": "https://github.com/pritamworld/w7_3133_nodejs_express_apollo_graphql_template#readme",
+  "homepage": "https://github.com/ramtina1381/Comp3133_Exercise5.git",
   "dependencies": {
     "apollo-server-express": "^2.19.2",
     "body-parser": "^1.19.0",
